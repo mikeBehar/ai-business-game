@@ -1,0 +1,28 @@
+Grom Gemini-CLI
+✦ Here are the steps to add new files to your local repository and then sync them with GitHub:
+
+   1. Place the new files into your project folder: C:\Users\mikeb\my Google Drive\AI game files.
+
+   2. Stage the files: Open your terminal, navigate to the project folder, and use the git add command. You have two
+      common options:
+       * To add all new and modified files: git add .
+       * To add a specific file: git add <filename>
+
+   3. Commit the files: This saves the changes to your local repository. Use a descriptive message that explains what
+      you've added.
+       * git commit -m "Add new feature files"
+
+   4. Push the commit to GitHub: This will upload your new files to the remote repository.
+       * git push
+
+  In summary, the workflow is: add -> commit -> push.
+
+> if I just add the files can you then do the commit then push
+
+✦ Yes, I can certainly do that.
+
+  Please go ahead and place the additional files into your local repository directory: C:\Users\mikeb\my Google Drive\AI
+  game files.
+
+  Once you've done that, let me know, and I will then stage all the new files, commit them with a message you provide,
+  and push them to your GitHub repository.
